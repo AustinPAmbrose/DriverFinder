@@ -1,16 +1,16 @@
-# SYSTEM REQUIREMENTS
+## SYSTEM REQUIREMENTS
 - Windows, x64 Processor
 - Microsoft .NET Runtime 8.0
 
-# INSTALLING
+## INSTALLING
 1. Unzip this .zip file
 2. Copy 'DriverFinder.exe' to your Desktop (or wherever you want it)
 3. Copy 'Drivers.csv' to your Documents folder (C:\Users\JohnDoe\Documents\)
 
-# GETTING STARTED
+## GETTING STARTED
 Double-click 'DriverFinder.exe' to launch the application. Please close 'Drivers.csv' if you have it open in Excel. The first time you run DriverFinder, you may be prompted to install Microsoft's .NET Runtime.
 
-# USAGE
+## USAGE
 Use the four filters at the top of the form to search for an appropriate driver. Note that 'Current' and 'Maximum Voltage' are the only required fields. The 'Minimum Current' and 'Power' fields are optional. 
 
 Use the 'tab' key on your keyboard to cycle through these fields.
